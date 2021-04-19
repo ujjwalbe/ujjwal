@@ -19,8 +19,5 @@
 - 📫 How to reach me: ujjwalbe@gmail.com
 - ⚡ Fun fact: Music Lover
 
-![Ujjwal's github stats](https://github-readme-stats.vercel.app/api?username=ujjwalbe&hide=["issues"]&show_icons=true)
 
-<a href="https://github.com/ujjwalbe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalbe&theme=light&hide_langs_below=1" />
-</a>
+
