@@ -16,7 +16,6 @@
 
 - 🔭 I’m currently working on Server-side scripting and Flutter
 - 💬 Ask me about Flutter and Django
-- 📫 How to reach me: ujjwalbe@gmail.com
 - ⚡ Fun fact: Music Lover
 
 
