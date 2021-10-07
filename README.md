@@ -15,7 +15,7 @@
 <br/>
 
 - 🔭 I’m currently working on Server-side scripting with NodeJS(TypeScript or JavaScript) and Python 
-- 💬 Ask me about Flutter and Django
+- 💬 Ask me about Flutter, Flask and Django
 - ⚡ Fun fact: I also do Flutter 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ujjwalbe.ujjwalbe)
