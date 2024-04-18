@@ -16,6 +16,7 @@
 
 
 👨‍💻 Backend Developer
+
 Passionate about crafting scalable backend solutions, I specialize in Python and AWS Cloud services. My expertise lies in building robust REST APIs and optimizing database performance using MySQL, MongoDB, and MSSQL. I excel in Flask, Django, Express, and Node.js for seamless integration and smooth functionality. Additionally, I am proficient in Jenkins for continuous integration, Docker for containerization, and Redis for caching. I also have experience with message brokers like RabbitMQ and possess knowledge of TCP/IP and WebSocket protocols.
 
 🌐 Cloud-Native Enthusiast
